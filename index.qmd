@@ -1,0 +1,33 @@
+---
+title: "Nonso-M.github.io"
+author: "Chukwunonso Ebele-Muolokwu"
+date: "2024-06-13"
+format:
+  html:
+    toc: true
+    number-sections: true
+    css: styles.css  # Optional: Add your custom CSS
+    toc-location: left
+    theme: cosmo      # Optional: Bootstrap theme
+    code-fold: true   # Optional: Code folding for code chunks
+    highlight-style: zenburn # Optional: Code highlighting style
+---
+
+# Welcome to Your Project
+
+This in partial fulfilment of DSC 521.
+
+## Getting Started
+
+To get started, you can visit the following pages:
+
+- [About Page](about.qmd): A summary about me.
+
+
+## Contact
+
+If you have any questions, feel free to reach out at [muolokwunonso@gmail.com](mailto:muolokwunonso@gmail.com).
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

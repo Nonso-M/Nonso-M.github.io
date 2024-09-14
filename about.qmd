@@ -1,0 +1,25 @@
+---
+title: "Ebele-Muolokwu Nonso"
+about:
+  template: jolla
+  image: "Roger Smith American Dad.jpeg"
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com/Nonso-M
+---
+
+Nonso is the a student of the MDS programme at UBC. When not innovating on data platforms, Finley enjoys watching an unhealthy amount  of American Dad or playing volleyball
+
+## Education
+
+University of Nigeria, Nsukka | Nsukka, Enugu
+BSc in Engineering| Sept 20** - June 20**
+
+University of British Columbia| Vancouver | Sept 20** - June 20**
+
+## Experience
+
